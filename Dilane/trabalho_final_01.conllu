@@ -1,0 +1,19 @@
+# sent_id = Hartt1938:0:451:451
+# text = Xasú igarapé rumasá kití.
+# text_por = Vou descer o igarapé.
+# text_source = p. 352, No. 451
+# text_orig = xasó ygarapé rumasá kyty.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Asú igarapé rumasá kití.
+# text_por_sec = Vou descer o igarapé.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Xasú igarapé rumasá kití.
+# text_annotator = Dilane Ricardo Rodrigues da Silva
+1	Xasú	sú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Asú|TokenRange=0:4
+2	igarapé	igarapé	NOUN	N	Number=Sing	3	nmod:poss	_	TokenRange=5:12
+3	rumasá	tumasá	NOUN	N	Number=Sing|Rel=Cont	1	obl	_	TokenRange=13:19
+4	kití	kití	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=20:24
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=24:25

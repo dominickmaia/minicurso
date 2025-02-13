@@ -1,0 +1,18 @@
+# sent_id = Hartt1938:0:335:335
+# text = Tenhẽ kurí ne resarái se suí.
+# text_por = Não te esqueças de mim!
+# text_source = p. 343, No. 335
+# text_orig = teñe kurí neresarái sesuí.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Tenhẽ kurí ne resarái se suí.
+# text_annotator = Dilane Ricardo Rodrigues da Silva
+1	Tenhẽ	tenhẽ	PART	FOC	Foc=Yes|PartType=Emp	4	advmod	_	TokenRange=0:5
+1	Tenhẽ	tenhẽ	PART	NEGI	Modality=Proh|PartType=Mod|Polarity=Neg	4	advmod	_	TokenRange=0:5
+2	kurí	kurí	PART	FUT	Tense=Fut	4	advmod	_	TokenRange=6:10
+3	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	TokenRange=11:13
+4	resarái	resarái	VERB	V2	Mood=Ind|Rel=Cont|VerbForm=Fin	0	root	_	TokenRange=14:21
+5	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	obl	_	TokenRange=22:24
+6	suí	suí	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=25:28
+7	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=28:29

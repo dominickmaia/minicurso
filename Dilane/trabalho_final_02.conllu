@@ -1,0 +1,17 @@
+# sent_id = Hartt1938:0:455:455
+# text = Ixé xawitá kwáu ií wira rupí.
+# text_por = Sei nadar debaixo da água.
+# text_source = p. 352, No. 455
+# text_orig = ixé xauytán kuáu yg uyra rupí.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Ixé xawitá kwáu ií wira rupí.
+# text_annotator = Dilane Ricardo Rodrigues da Silva
+1	Ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	TokenRange=0:3
+2	xawitá	witá	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=awitá|TokenRange=4:10
+3	kwáu	kwáu	AUX	AUXN	VerbForm=Inf	2	aux	_	TokenRange=11:15
+4	ií	ií	NOUN	N	Number=Sing	2	obj	_	TokenRange=16:18
+5	wira	wira	NOUN	N	Number=Sing	2	obl	_	TokenRange=19:23
+6	rupí	rupí	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=24:28
+7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=28:29

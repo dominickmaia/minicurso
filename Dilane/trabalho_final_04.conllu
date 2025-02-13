@@ -1,0 +1,20 @@
+# sent_id = Hartt1938:0:735:735
+# text = Xasú xayuuka itá pusu suí.
+# text_por = Vou tirar a pedra do poço.
+# text_source = p. 372, No. 735
+# text_orig = xasó xayuók itá póso suí.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Asú ayuuka itá pusu suí.
+# text_por_sec = Vou tirar a pedra do poço.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Xasú xayuuka itá pusu suí.
+# text_annotator = Dilane Ricardo Rodrigues da Silva
+1	Xasú	sú	AUX	AUXFR	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	2	aux	_	ModernForm=Asú|TokenRange=0:4
+2	xayuuka	yuuka	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=ayuuka|TokenRange=5:12
+3	itá	itá	NOUN	N	Number=Sing	2	obl	_	TokenRange=13:16
+4	pusu	pusu	_	_	_	2	_	_	TokenRange=17:21
+5	suí	suí	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=22:25
+6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=25:26
