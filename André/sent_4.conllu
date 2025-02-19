@@ -1,0 +1,16 @@
+# sent_id = Hartt1938:0:665:665
+# text = Yané pá kurí yamanú.
+# text_por = Nós todos havemos de morrer.
+# text_source = p. 367, No. 665
+# text_orig = yané pan kurí yamanó.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Yané pá kurí yamanú.
+# text_annotator = André Rosa
+1	Yané	yané	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs|Style=Arch	4	nsubj	_	ModernForm=Yandé|ModernLemma=yandé|TokenRange=0:4
+2	pá	pá	PART	TOTAL	Aspect=Compl	1	advmod	_	TokenRange=5:7
+3	kurí	kurí	PART	FUT	Tense=Fut	4	advmod	_	TokenRange=8:12
+4	yamanú	manú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=13:19
+5	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=19:20
+
