@@ -1,0 +1,13 @@
+# sent_id = Hartt1938x:x:833
+# text = Se raíra menasara uikú.
+# text_por = Meu filho está casado.
+# text_source = p. 379, No. XX.
+# text_orig = serayra menasára oikó
+# text_annotator = Antônio Levy Melo Nogueira
+# text_eng = My son is married.
+# inputline = Se raíra menasara uikú.
+1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:2
+2	raíra	taíra	NOUN	N	Number=Sing|Rel=Cont	3	nmod:poss	_	TokenRange=3:8
+3	menasara	menasara	ADJ	A	_	0	root	_	TokenRange=9:17
+4	uikú	ikú	VERB	COP	Mood=Ind|Person=3|VerbForm=Fin	3	_	_	SpaceAfter=No|TokenRange=18:22
+5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=22:23

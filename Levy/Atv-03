@@ -1,0 +1,15 @@
+# sent_id = Hartt1938x:x:724
+# text = Xarikú yepé se kiwira sikwé waá.
+# text_por = Tenho um irmão vivo.
+# text_source = p. 371, No. XX.
+# text_orig = xarekó oyepé kyuíra sekouecé uaé.
+# text_annotator = Antônio Levy Melo Nogueira
+# text_eng = I have a living brother. 
+# inputline = Xarikú yepé se kiwira sikwé waá.
+1	Xarikú	rikú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	5	advcl	_	ModernForm=Arikú|TokenRange=0:6
+2	yepé	yepé	DET	ART	Definite=Ind|PronType=Art	4	det	_	TokenRange=7:11
+3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=12:14
+4	kiwira	kiwira	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=15:21
+5	sikwé	rikwé	VERB	V2	Mood=Ind|Number=Sing|Person=3|Rel=NCont|VerbForm=Fin	0	root	_	TokenRange=22:27
+6	waá	waá	SCONJ	SCONJ	_	5	mark	_	SpaceAfter=No|TokenRange=28:31
+7	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=31:32

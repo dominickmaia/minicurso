@@ -1,0 +1,12 @@
+# sent_id = Hartt1938 0:0:766
+# text = Irusã se pisika.
+# text_por = Estou constipado.
+# text_source = p. 374, No. XX.
+# text_orig = irusán sepysy.
+# text_annotator = Antônio Levy Melo Nogueira
+# text_eng = I'm constipated.
+# inputline = Irusã se pisika.
+1   Irusã	irusã	ADJ	A	_	3	_	_	TokenRange=0:5
+2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	expl	_	TokenRange=6:8
+3	pisika	pisika	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No|TokenRange=9:15
+4	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=15:16

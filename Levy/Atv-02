@@ -1,0 +1,12 @@
+# sent_id = Hartt1938 0:0:723
+# text = Xasú xamupú tapiira.
+# text_por = Vou tocar o gado.
+# text_source = p. 371, No. XX.
+# text_orig = xasó xamapó tapyira.
+# text_annotator = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = Xasú xamupú tapiira.
+1	Xasú	sú	AUX	AUXFR	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	2	aux	_	ModernForm=Asú|TokenRange=0:4
+2	xamupú	mupú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=amupú|TokenRange=5:11
+3	tapiira	tapiira	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=12:19
+4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=19:20
