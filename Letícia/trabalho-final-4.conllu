@@ -1,0 +1,19 @@
+# sent_id = Hartt1938:0:808:808
+# text = Kwaá iwitera suí, yamaã kwáu tawa resé.
+# text_por = Deste morro podemos ver a vila.
+# text_source = p. 377, No. 808
+# text_orig = kuaá yuytyra suí, yamaán kuán táua resé.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Kwaá/demx iwitera suí, yamaã kwáu tawa resé/adp.
+# text_annotator = Letícia Farias Nunes
+1	Kwaá	kwaá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	TokenRange=0:4
+2	iwitera	iwitera	NOUN	N	Number=Sing	5	obl	_	TokenRange=5:12
+3	suí	suí	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=13:16
+4	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=16:17
+5	yamaã	maã	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=18:23
+6	kwáu	kwáu	AUX	AUXN	VerbForm=Inf	5	aux	_	TokenRange=24:28
+7	tawa	tawa	NOUN	N	Number=Sing	5	obl	_	TokenRange=29:33
+8	resé	resé	ADP	ADP	AdpType=Post|Rel=Cont	7	case	_	SpaceAfter=No|TokenRange=34:38
+9	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=38:39

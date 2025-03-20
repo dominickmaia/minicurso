@@ -1,0 +1,16 @@
+# sent_id = Hartt1938:0:471:471
+# text = Iné intí reyapukúi-kwáu.
+# text_por = Tu não sabes remar.
+# text_source = p. 353, No. 471
+# text_orig = iné intí reapukúi kuáu.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Iné intí reyapukúi-kwáu.
+# text_annotator = Letícia Farias Nunes
+1	Iné	iné	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	TokenRange=0:3
+2	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	3	advmod	_	TokenRange=4:8
+3-4	reyapukúi-kwáu	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9:23
+3	reyapukúi	yapukúi	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+4	kwáu	kwáu	AUX	AUXN	Compound=Yes|VerbForm=Inf	3	aux	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=23:24
